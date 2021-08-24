@@ -22,7 +22,7 @@
 
 ---
 + Bachelor of science : Software Engineering
-_ payam Noor University
+_ University of Applied Sciences
 
 ### language
 
