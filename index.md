@@ -15,7 +15,7 @@
 
 ---
 + Java Script, Visual Basic
-+ ASP, C#  
++ ASP, C#, Network  
 
 
 ### Education
